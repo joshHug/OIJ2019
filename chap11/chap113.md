@@ -6,7 +6,7 @@ We mentioned in chapter 11.1 that order matters when inserting into a BST.
 
 **Question**: Is this also true for a B-Tree?
 
-**Exercise 11.3.1**: Insert 1-7 into a B-tree in that order. What is the height of the tree? Can we change the order of the insertions so that we can decrease the height? Here is a \[cool B-tree visualizer\]\([https://www.cs.usfca.edu/~galles/visualization/BTree.html](https://www.cs.usfca.edu/~galles/visualization/BTree.html\)\) that might help!
+**Exercise 11.3.1**: Insert 1-7 into a B-tree in that order. What is the height of the tree? Can we change the order of the insertions so that we can decrease the height? Here is a [cool B-tree visualizer](https://www.cs.usfca.edu/~galles/visualization/BTree.html) that might help!
 
 **Solution**: Yes, we can get a tree of height 1 by inserting in this order: 2, 3, 4, 5, 6, 1, 7. ![](../.gitbook/assets/Screen%20Shot%202019-03-05%20at%204.35.18%20PM.png)
 
