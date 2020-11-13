@@ -1,8 +1,8 @@
 # Introduction
 
-This book is the companion to Josh Hug's version of CS61B, UC Berkeley's Data Structures course. The spring 2019 version of the course can be found at [https://sp19.datastructur.es/](https://sp19.datastructur.es/). There may be newer versions. See [https://datastructur.es](https://datastructur.es).
+This book is the companion to Josh Hug's version of CS61B, UC Berkeley's Data Structures course. The spring 2019 version of the course can be found at [https://sp19.datastructur.es/](https://sp19.datastructur.es/). The fall 2020 version of the course can be found at [http://fa20.datastructur.es/](http://fa20.datastructur.es/). There may be newer versions. See [https://datastructur.es](https://datastructur.es).
 
-This course presumes that you already have a strong understanding of programming fundamentals. At the very least, you should be comfortable with the ideas of object oriented programming, recursion, lists, and trees. You should also understand how to use a terminal in the operating system of your choice. If you don't have such experience, I encourage you to check out [CS61A](http://cs61a.org/), UC Berkeley's introductory programming course.
+This course presumes that you already have a strong understanding of programming fundamentals. At the very least, you should be comfortable with the ideas of object-oriented programming, recursion, lists, and trees. You should also understand how to use a terminal in the operating system of your choice. If you don't have such experience, I encourage you to check out [CS61A](http://cs61a.org/), UC Berkeley's introductory programming course.
 
 If you already have experience with Java, you might consider skipping straight to chapter 2, though you might still get something by skimming the first chapter.
 
